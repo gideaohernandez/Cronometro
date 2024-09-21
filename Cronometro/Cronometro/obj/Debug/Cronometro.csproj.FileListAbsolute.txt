@@ -1,0 +1,28 @@
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.Cronometro.resources
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\HERNANDEZ\Documents\Teste 0.2\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\mscorlib.dll
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\System.Net.Http.dll
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\System.Net.Http.xml
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\pt-PT\mscorlib.resources.dll
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\normidna.nlp
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\normnfc.nlp
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\normnfd.nlp
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\normnfkc.nlp
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\normnfkd.nlp
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.Cronometro.resources
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+E:\Cursos 🔨\Backups Projects\Cronometro\Cronometro\bin\Debug\Guna.UI.dll
